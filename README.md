@@ -157,3 +157,4 @@ sudo chown $(id -u):$(id -g) $HOME/.kube/config
 
 🎉 **Setup Complete!**
 You now have a working Kubernetes cluster using **kubeadm + containerd + Calico**.
+
