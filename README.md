@@ -13,7 +13,7 @@ This guide explains how to set up a Kubernetes cluster manually using **kubeadm*
 * Container Runtime → **containerd**
 * Pod Network → **Calico (CIDR: 10.244.0.0/16)**
 
----
+---                  
 
 ## 🔧 Required Ports (Open in Security Groups)
 
