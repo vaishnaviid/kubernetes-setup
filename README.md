@@ -4,7 +4,7 @@
 
 This guide explains how to set up a Kubernetes cluster manually using **kubeadm**, **containerd**, and **Calico CNI** on Ubuntu servers.
 
----
+---                    
                     
 ## 📌 Architecture Used
 
