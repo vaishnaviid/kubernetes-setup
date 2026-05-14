@@ -8,7 +8,7 @@ This guide explains how to set up a Kubernetes cluster manually using **kubeadm*
 
 ## 📌 Architecture Used
 
-* **1 Master Node** (Ubuntu)
+* **1 Master Node** (Ubuntu)            
 * **1 Worker Node** (Ubuntu)
 * Container Runtime → **containerd**
 * Pod Network → **Calico (CIDR: 10.244.0.0/16)**
